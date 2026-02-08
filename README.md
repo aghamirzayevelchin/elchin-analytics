@@ -1,23 +1,43 @@
 # 👋 Hi, I'm Elchin Aghamirzayev
 
-Finance & Accounting Specialist | Data Analytics Enthusiast
+Finance & Accounting Specialist | Data Analytics Enthusiast  
+Lead Accountant (AR/AP) | Excel, SQL & Power BI | ACCA Student
 
-I specialize in transforming financial data into actionable insights
-using Excel, SQL and Power BI.
+I am a results-driven finance professional with strong expertise in
+financial reporting, settlements (AR/AP), and business analytics.
 
-## 🔧 Skills
-- Advanced Excel (Pivot, Power Query, Dashboards, KPI)
-- SQL (Data Analysis & Reporting)
-- Power BI (DAX, Modeling, Visualization)
+I specialize in transforming raw financial data into actionable insights
+that support data-driven decision-making.
+
+
+## 🔧 Core Skills
+
+- Advanced Excel (Pivot Tables, Power Query, Dashboards, KPI)
+- SQL (Data Analysis & Business Reporting)
+- Power BI (Data Modeling, DAX, Visualization)
 - Financial Reporting & Analysis
+- Cost & Profitability Analysis
+- Process Automation
+
 
 ## 📊 Featured Projects
+
 ### 🔹 Retail Finance Analytics Dashboard
-Sales, expense and profit analysis using Excel, SQL and Power BI.
+End-to-end retail sales and profitability analysis using Excel, SQL and Power BI.
 
 ### 🔹 Card Business Analytics
-Revenue, cost and turnover analysis for card transactions.
+Revenue, cost and turnover analysis for card transactions and business performance.
+
+
+## 💼 Professional Background
+
+- Lead Accountant – Settlements (AR/AP)
+- Experience in retail and financial operations
+- ACCA Student
+- 2019 AYF Grant Winner
 
 ## 📫 Contact
-LinkedIn: elchinaghamirzayev
-Email:    aghamirzayevelchin@gmail.com | elchinaghamirzayev@gmail.com
+📍 Baku, Azerbaijan  
+💼 LinkedIn: linekdin.com/in/elchinaghamirzayev  
+💻 GitHub: https://github.com/aghamirzayevelchin
+📧 Email:  aghamirzayevelchin@gmail.com | elchinaghamirzayev@gmail.com
