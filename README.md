@@ -9,7 +9,6 @@ financial reporting, settlements (AR/AP), and business analytics.
 I specialize in transforming raw financial data into actionable insights
 that support data-driven decision-making.
 
-
 ## 🔧 Core Skills
 
 - Advanced Excel (Pivot Tables, Power Query, Dashboards, KPI)
@@ -19,7 +18,6 @@ that support data-driven decision-making.
 - Cost & Profitability Analysis
 - Process Automation
 
-
 ## 📊 Featured Projects
 
 ### 🔹 Retail Finance Analytics Dashboard
@@ -27,7 +25,6 @@ End-to-end retail sales and profitability analysis using Excel, SQL and Power BI
 
 ### 🔹 Card Business Analytics
 Revenue, cost and turnover analysis for card transactions and business performance.
-
 
 ## 💼 Professional Background
 
